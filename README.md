@@ -1,6 +1,7 @@
 # Info
 Principal Command:
-- /spawnkit
+- /whois
+- /claim
 
 # [Web MilaPlugins](https://unturnedplugins.milahosting.com)
 
